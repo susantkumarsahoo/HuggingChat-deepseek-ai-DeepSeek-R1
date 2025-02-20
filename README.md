@@ -63,7 +63,7 @@ This project implements a chatbot using **LangChain** and **Hugging Face**'s LLM
 - **Multi-model integration** for diverse NLP capabilities.
 
 ## Author
-- **Your Name** []
+- **Your Name** [ ]
 - LinkedIn: [Your Profile]
 
 

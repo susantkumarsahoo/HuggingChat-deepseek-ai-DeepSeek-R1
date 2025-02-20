@@ -4,8 +4,3 @@ langchain
 langchain-core 
 langchain-community
 huggingface_hub
-
-
-
-
-
