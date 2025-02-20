@@ -1,6 +1,9 @@
-langchain 
+ipykernel
+streamlit
+langchain
+langchain-core 
+langchain-community
 huggingface_hub
-langchain[all]
 
 
 
